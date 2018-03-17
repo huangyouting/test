@@ -1,0 +1,4 @@
+慕课网thinkphp5基础篇视频：https://www.imooc.com/learn/832
+慕课网thinkphp5模型篇视频：https://www.imooc.com/learn/854
+慕课网SQL注入：https://www.imooc.com/learn/883
+项目实战：仿百度糯米开发
